@@ -1,0 +1,9 @@
+body {
+    max-width: max-content; 
+    margin: auto; 
+    font-family: 'Courier New'
+}
+
+#main_header {
+    text-align: center;
+}
